@@ -1,6 +1,6 @@
 {
     "name": "snoobot",
-    "version": "0.0.0",
+    "version": "0.1.0-0",
     "description": "A (wip) package written in TypeScript for making Reddit bots.",
     "main": "dist/index.js",
     "repository": "https://github.com/thetayloredman/snoobot",
