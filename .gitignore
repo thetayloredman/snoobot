@@ -1,0 +1,3 @@
+# snoobot gitignore
+/node_modules/
+/dist/

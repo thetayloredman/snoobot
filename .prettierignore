@@ -1,0 +1,6 @@
+/tsconfig.json
+/dist/
+/yarn.lock
+/prettierignore
+/.gitignore
+/.prettierignore

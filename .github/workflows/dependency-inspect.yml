@@ -1,0 +1,12 @@
+name: Inspect for new dependencies
+on:
+    - pull_request
+
+jobs:
+    check:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check for new dependencies
+              uses: hiwelo/new-dependencies-action@master
+              with:
+                  token: ${{ secrets.GITHUB_TOKEN }}
